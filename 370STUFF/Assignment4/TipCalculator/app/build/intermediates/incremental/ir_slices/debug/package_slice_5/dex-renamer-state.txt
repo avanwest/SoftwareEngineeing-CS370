@@ -1,4 +1,0 @@
-#Tue Oct 09 06:44:09 EDT 2018
-base.0=C\:\\Users\\avanw\\OneDrive\\Documents\\CS370\\370Fall18avanwestrienen\\Assignment4\\TipCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
-path.0=classes.dex
-renamed.0=classes.dex
